@@ -24,16 +24,9 @@
 
 ## ROS
 
-### [Robotics Course](https://www.google.com)
-1. [Transforms](https://www.google.com)
-2. [Forward Kinematics](https://www.google.com)
-3. [Robotic arms - Cartesian Control](https://www.google.com)
-4. [Motion Planning](https://www.google.com)
-
-### [ROS Book](https://www.google.com)
-1. [Fetch ros kinetic](https://www.google.com)
-
 ### [JDERobot Docker ROS](https://github.com/sandeepgogadi/JDERobot-Docker-ROS)
+
+### [Fetch-ROS-Docker](https://github.com/sandeepgogadi/Fetch-ROS-Docker)
 
 1. [Color Filter](https://github.com/sandeepgogadi/JDERobot-Docker-ROS/tree/master/color_filter)
 2. [Visual 3D reconstruction from a stereo pair of RGB cameras](https://github.com/sandeepgogadi/JDERobot-Docker-ROS/tree/master/3d_reconstruction)
