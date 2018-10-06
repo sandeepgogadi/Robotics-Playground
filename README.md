@@ -38,10 +38,9 @@
 
 ### [Fetch-ROS-Docker](https://github.com/sandeepgogadi/Fetch-ROS-Docker)
 
-## [Python](https://www.google.com)
+## Python
 
-### [Clauss Brenner](https://www.google.com)
-1. [Slam](https://www.google.com)
+### [Python SLAM](https://github.com/sandeepgogadi/Python-SLAM)
 
 ### [Robotics](https://www.google.com)
 1. [Visual Slam](https://www.google.com)
