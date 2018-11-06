@@ -57,14 +57,24 @@
 1. [Enron](https://www.google.com)
 
 ### [Deep Learning](https://www.google.com)
-1. [Supervised](https://www.google.com)
-    1. [Object Classification]()
-    2. [Object Detection]()
-    3. [Object Segmentation]()
-    4. [Vehicle Speed Estimation]()
-2. [Unsupervised](https://www.google.com)
-3. [Reinforcement](https://www.google.com)
-4. [Transfer](https://www.google.com)
-5. [3D data](https://www.google.com)
-6. [Segmentation](https://www.google.com)
-7. [Imitation Learning](https://www.google.com)
+1. Supervised
+    1. Object Classification
+        1. [Plant-Seedlings]()
+    2. Object Detection
+        1. [Road Object Detection]()
+    3. Object Segmentation
+        1. [Drivable Area Segmentation]()
+        2. [Road Image Segmentation]()
+    4. Vehicle Speed Estimation
+2. 3D
+    1. [3D MNIST]()
+    2. [Pose Estimation]()
+3. Reinforcement
+    1. [OpenAI-Robotics]()
+4. Transfer
+    1. [Cats-Dogs]()
+    2. [Linnaeus5]()
+5. Tutorials
+    1. [Tensorboard]()
+    2. [Tensorflow]()
+    3. [TFlearn]()
