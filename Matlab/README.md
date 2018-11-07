@@ -1,6 +1,6 @@
 [back to Robotics Playground](https://github.com/sandeepgogadi/Robotics-Playground)
 
-## Matlab
+## [Matlab](https://github.com/sandeepgogadi/Robotics-Playground/tree/master/Matlab)
 
 ### [Kinematics and Mathematical Foundations](https://github.com/sandeepgogadi/Kinematics-Matlab)
 1. [Rotations](https://github.com/sandeepgogadi/Kinematics-Matlab/tree/master/Rotations)
