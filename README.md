@@ -40,16 +40,16 @@
 
 ## [Python](https://github.com/sandeepgogadi/Robotics-Playground/tree/master/Python)
 
-### Robotics
+### [Robotics](https://github.com/sandeepgogadi/Robotics-Playground/tree/master/Python/Robotics)
 1. [Python SLAM](https://github.com/sandeepgogadi/Python-SLAM)
 2. [Docker ORB_SLAM2](https://github.com/sandeepgogadi/Docker-ORB_SLAM2)
 3. [Lidar pointcloud preprocessing - Kitti dataset](https://github.com/sandeepgogadi/Lidar-pointcloud-preprocessing)
 4. [Camera Calibration](https://github.com/sandeepgogadi/Camera-Calibration)
 
-### Machine Learning
+### [Machine Learning](https://github.com/sandeepgogadi/Robotics-Playground/tree/master/Python/Machine%20Learning)
 1. [Enron](https://github.com/sandeepgogadi/Enron)
 
-### Deep Learning
+### [Deep Learning](https://github.com/sandeepgogadi/Robotics-Playground/tree/master/Python/Deep%20Learning)
 1. Supervised
     1. Object Classification
         1. [Plant-Seedlings](https://github.com/sandeepgogadi/Plant-Seedlings-Classification)
